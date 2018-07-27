@@ -1,0 +1,2 @@
+# CodeIgniterStarterApplication
+CodeIgniter Starter Application
