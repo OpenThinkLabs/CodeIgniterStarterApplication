@@ -1,6 +1,7 @@
-# CI3 Fire Starter (ci3-fire-starter)
+Fork from https://github.com/JasonBaier/ci3-fire-starter. 
 
-**[VIEW THE DEMO](http://ci3-fire-starter.jasonbaier.com)**
+Experimenting with semantic ui. 
+
 
 <a name="toc"></a>
 ## TABLE OF CONTENTS
